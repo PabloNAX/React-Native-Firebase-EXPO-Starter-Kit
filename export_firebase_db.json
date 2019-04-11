@@ -1,0 +1,106 @@
+{
+  "FirstScreen" : {
+    "card" : {
+      "cardBadges" : {
+        "firstBadge" : "30% off",
+        "secondBadge" : "Order till 22:00"
+      },
+      "cardTitle" : "Poke from Wall Street",
+      "firstTag" : "Poke",
+      "geoTag" : "fast kitchen",
+      "secondTag" : "Thai"
+    },
+    "city" : "London",
+    "leftCard" : {
+      "desc" : "The monkey-rope is found in all whalers",
+      "header" : "Free delivery"
+    },
+    "mainCard" : {
+      "desc" : "The monkey-rope is found in all whalers; but it was only in the Pequod that the monkey and his holder were ever tied together.",
+      "header" : "Meal deals"
+    },
+    "rightCard" : {
+      "desc" : "The monkey-rope is found in all whalers",
+      "header" : "Best Rating"
+    }
+  },
+  "ProductScreen" : {
+    "cardBadges" : {
+      "firstBadge" : "20% off",
+      "secondBadge" : "Order till 21:00"
+    },
+    "content" : "Being the savage's bowsman, that is, the person who pulled the bow-oar.",
+    "date" : "20.03.2019",
+    "dishes" : [ null, {
+      "content" : "Being the savage's bowsman, that is, the person who pulled the bow-oar.",
+      "image" : "https://cdn.playbuzz.com/cdn/4e280c69-84bc-4bd4-9907-79f87958fd2f/22bc689f-be91-43e2-89ca-5ec2cf1cdfe1.png",
+      "oldPrice" : "$ 9,99",
+      "price" : "$ 6,66",
+      "title" : "Honi Poke"
+    }, {
+      "content" : "Being the savage's bowsman, that is, the person who pulled the bow-oar.",
+      "image" : "https://cdn.playbuzz.com/cdn/4e280c69-84bc-4bd4-9907-79f87958fd2f/22bc689f-be91-43e2-89ca-5ec2cf1cdfe1.png",
+      "oldPrice" : "9,99",
+      "price" : "$ 7,66",
+      "title" : "Mau Poke"
+    } ],
+    "firstTag" : "Poke",
+    "geoTag" : "fast kitchen",
+    "image" : "https://wondermedia.ru/wp-content/uploads/2017/12/image-product.png",
+    "price" : 16,
+    "reviews" : [ null, {
+      "author" : "Stevee O",
+      "firstColor" : "#5679FF",
+      "imageAuthor" : "https://source.unsplash.com/3TLl_97HNJo/120x120",
+      "review" : "The monkey-rope is found in all whalers; but it was only in the Pequod",
+      "secondColor" : "#2B44FF"
+    }, {
+      "author" : "Stevee O",
+      "firstColor" : "#FF5F8B",
+      "imageAuthor" : "https://source.unsplash.com/nTgauPjp-uA/120x120",
+      "review" : "The monkey-rope is found in all whalers; but it was only in the Pequod",
+      "secondColor" : "#FF7578"
+    } ],
+    "secondTag" : "Thai",
+    "sku" : "pch13",
+    "title" : "Poke to Walk  Liverpool Street"
+  },
+  "ProfileScreen" : {
+    "age" : 25,
+    "city" : "San Francisco",
+    "image" : "https://source.unsplash.com/3TLl_97HNJo/120x120",
+    "name" : "Jack Snow",
+    "orders" : [ null, {
+      "content" : "Being the savage's bowsman, that is, the person who pulled the bow-oar.",
+      "image" : "https://cdn.playbuzz.com/cdn/4e280c69-84bc-4bd4-9907-79f87958fd2f/22bc689f-be91-43e2-89ca-5ec2cf1cdfe1.png",
+      "oldPrice" : "$ 8,66",
+      "price" : "$ 6,66",
+      "title" : "Hani Poke"
+    }, {
+      "content" : "Being the savage's bowsman, that is, the person.",
+      "date" : "21.03.2019",
+      "image" : "https://cdn.playbuzz.com/cdn/4e280c69-84bc-4bd4-9907-79f87958fd2f/22bc689f-be91-43e2-89ca-5ec2cf1cdfe1.png",
+      "oldPrice" : "$ 8,66",
+      "price" : "$ 6,66",
+      "sku" : "pcj23",
+      "title" : "Pencil"
+    }, {
+      "content" : "Being the savage's bowsman, that is, the person.",
+      "date" : "23.03.2019",
+      "image" : "https://cdn.playbuzz.com/cdn/4e280c69-84bc-4bd4-9907-79f87958fd2f/22bc689f-be91-43e2-89ca-5ec2cf1cdfe1.png",
+      "oldPrice" : "$ 12,99",
+      "price" : "$ 9,99",
+      "sku" : "pch75",
+      "title" : "Book"
+    } ],
+    "rating" : 4.9,
+    "reputation" : 248
+  },
+  "item" : {
+    "content" : "This is content from firebase ",
+    "date" : "20.03.2019",
+    "id" : 1,
+    "place" : "New York",
+    "title" : "Title of item"
+  }
+}

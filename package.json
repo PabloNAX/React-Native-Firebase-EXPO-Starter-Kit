@@ -1,0 +1,43 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "jest": "jest",
+    "prettier": "prettier --write App.js screens/* components/*/index.js navigation/* assets/images/svg/*.js",
+    "eslint": "eslint App.js screens/* components/* navigation/*",
+    "eslint-fix": "eslint --fix App.js screens/* components/* navigation/*",
+    "test": "npm run prettier && npm run eslint && npm run jest"
+  },
+  "jest": {
+    "preset": "jest-expo",
+    "transform": {
+      "^.+\\.js$": "babel-jest"
+    }
+  },
+  "dependencies": {
+    "@expo/samples": "2.1.1",
+    "expo": "^32.0.0",
+    "firebase": "^5.9.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-navigation": "^3.0.9",
+    "@expo/vector-icons": "latest"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/plugin-transform-flow-strip-types": "^7.4.0",
+    "babel-eslint": "^10.0.1",
+    "babel-preset-expo": "^5.0.0",
+    "eslint": "^5.6.0",
+    "eslint-plugin-flowtype": "^2.50.1",
+    "eslint-plugin-prettier": "^2.7.0",
+    "eslint-plugin-react": "^7.11.1",
+    "jest-cli": "^23.6.0",
+    "jest-expo": "^32.0.0",
+    "prettier": "^1.14.3"
+  },
+  "private": true
+}
